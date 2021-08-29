@@ -1,0 +1,78 @@
+
+% Copyright 2007 by Till Tantau
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+%
+% See the file doc/licenses/LICENSE for more details.
+
+\ProvidesPackageRCS $Header: /home/vedranm/bitbucket/beamer/base/themes/theme/beamerthemeRochester.sty,v d02a7cf4d8ae 2010/06/17 09:11:41 rivanvx $
+
+
+\mode<presentation>
+
+\useoutertheme[height=8.5mm,width=0pt]{sidebar}
+\useinnertheme{rectangles}
+\usecolortheme{whale}
+\usecolortheme{orchid}
+
+\setbeamercolor*{frametitle}{parent=palette primary}
+\setbeamerfont{block title}{size={}}
+
+\usenavigationsymbolstemplate{} %remove the navigation menu
+
+%\definecolor{UiORed}{cmyk}{0,0.88,0.85,0.07}
+\definecolor{UiORed}{RGB}{237, 28, 36}%{207, 207, 207}
+
+\mode<presentation>
+{
+%  \usetheme[height=8mm]{Rochester} % headline box height
+  \useinnertheme{rounded}
+  
+%  \DefineNamedColor{named}{UiORed}{cmyk}{0,0.88,0.85,0.07}
+    
+  \usecolortheme[named=black]{structure}
+  \setbeamercolor{palette primary}{fg=white,bg=black}
+  \setbeamercolor{palette secondary}{bg=UiORed}
+  \setbeamercolor{alerted text}{fg=UiORed}
+ 
+% \setbeamertemplate{itemize item}[fg=UiORed]%%fixme. pickup
+  \setbeamertemplate{itemize item}[triangle]
+  \setbeamertemplate{itemize subitem}[triangle]
+  \setbeamertemplate{itemize subsubitem}[triangle]
+  \setbeamertemplate{enumerate items}[default]
+
+%  \setbeamercovered{transparent}
+
+}
+
+% \defbeamertemplate*{headline}{MyRochester theme}
+% {
+%   \leavevmode%
+%   \hbox{%
+%   \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,right]{section
+%       in head/foot}%
+%     \usebeamercolor{bg=black}
+%     \usebeamerfont{section in
+%       head/foot}\insertsectionhead\hspace*{2ex}
+%   \end{beamercolorbox}%
+%   \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,left]{subsection in head/foot}%
+%     \usebeamerfont{subsection in head/foot}\hspace*{2ex}\insertsubsectionhead
+%   \end{beamercolorbox}}%
+%   \vskip0pt%
+% }
+
+\setbeamersize{text margin left=10pt,text margin right=10pt}
+%\setbeamersize{text margin left=1em,text margin right=1em}
+
+\setlength{\leftmargini}{15pt}
+
+
+\setbeamertemplate{footline}{\hfill\vspace{1.25pt}{\alert{\insertframenumber}$\;\!$}}
+
+%\usefonttheme[]{professionalfonts}
+
+\mode
+<all>

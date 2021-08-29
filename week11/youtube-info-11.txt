@@ -1,0 +1,24 @@
+IN2040: 11.1 - Intro og repetisjon
+11.1 - Intro og repetisjon
+
+IN2040: 11.2 - Omgivelser og rammer i evaluatoren
+11.2 - Omgivelser og rammer i evaluatoren
+SICP: 4.1.3, 4.1.4
+
+IN2040: 11.3 - Evaluatorens 5 hoveddeler
+11.3 - Evaluatorens 5 hoveddeler
+
+IN2040: 11.4 - Representasjon av uttrykk
+11.4 - Representasjon av uttrykk
+SICP: 4.1.2
+
+IN2040: 11.5 - Prosedyrene mc-eval og mc-apply
+11.5 - Prosedyrene mc-eval og mc-apply
+SICP: 4.1.1
+
+IN2040: 11.6 - REPL
+11.6 - REPL
+SICP: 4.1.4
+
+IN2040: 11.7 - Veiledning i hvordan lese kapittel 4
+11.7 - Veiledning i hvordan lese kapittel 4

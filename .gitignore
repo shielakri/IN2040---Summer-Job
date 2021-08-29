@@ -1,0 +1,10 @@
+# LaTeX
+*.aux
+*.log
+*.synctex.gz
+
+# Video files
+*.mp4
+
+# Images
+*.jpg

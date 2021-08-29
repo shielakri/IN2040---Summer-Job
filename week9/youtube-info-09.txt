@@ -1,0 +1,31 @@
+IN2040: 9.1 - Intro og repetisjon
+9.1 - Intro og repetisjon
+
+IN2040: 9.2 - Inkrementell beregning vs. sekvensoperasjoner
+9.2 - Inkrementell beregning vs. sekvensoperasjoner
+
+IN2040: 9.3 - Strømmer - introduksjon og grensesnitt
+9.3 - Strømmer - introduksjon og grensesnitt
+SICP: 3.5.1
+
+IN2040: 9.4 - Strømmer - sekvensoperasjoner
+9.4 - Strømmer - sekvensoperasjoner
+SICP: 3.5.1
+
+IN2040: 9.5 - Repetisjon - Evalueringsstrategier
+9.5 - Repetisjon - Evalueringsstrategier
+
+IN2040: 9.6 - Strømmer - implementasjon
+9.6 - Strømmer - implementasjon
+SICP: 3.5.1
+
+IN2040: 9.7 - Strømmer - memoisering
+9.7 - Strømmer - memoisering
+SICP: 3.5.1
+
+IN2040: 9.8 - Utsatt evaluering og destruktive operasjoner
+9.8 - Utsatt evaluering og destruktive operasjoner
+
+IN2040: 9.9 - Strømmer - uendelige sekvenser
+9.9 - Strømmer - uendelige sekvenser
+SICP: 3.5.2

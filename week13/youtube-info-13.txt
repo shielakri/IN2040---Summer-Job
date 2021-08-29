@@ -1,0 +1,20 @@
+Oppsummering
+
+00:00 : abstraksjon
+06:59 : rekursjon
+16:12 : prosedyreorientering
+21:46 : evaluering av kode
+28:15 : funksjonell programmering m/ imperativt attåt
+
+
+Prøveeksamen
+
+00:00 : intro
+02:00 : oppgave 5 - omgivelser
+12:00 : oppgave 13 - kallstatistikk
+
+Prøveeksamen
+
+00:00 : intro
+43:30 : oppgave 4 - omgivelser
+50:00 : oppgave 6 - kall

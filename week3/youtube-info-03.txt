@@ -1,0 +1,51 @@
+IN2040: 3.1 - Intro og repetisjon
+2.1 - Intro og repetisjon
+Repetisjon av forelesning 2.
+
+
+IN2040: 3.2 - Lister og Quote
+3.2 - Lister og Quote
+Her introduseres lister som en datastruktur. Det forklares hvordan bygge opp lister og hvordan representere lister med boks-og-peker notsasjon. I tillegg forklares special-form prosedyren quote.
+Prosedyrer som introduseres her er: cons, car, cdr, null?, quote.
+
+SICP: 2.2.0*, 2.2.1, 2.3.1
+* Introduksjon til 2.2
+
+
+IN2040: 3.3 - Rekursjon på lister
+2.3 - Rekursjon på lister
+Her forklares hvordan utføre rekursjon på lister og hvordan prosedyrer som gjør dette kan generaliseres.
+Prosedyrer som introduseres her er: length, map.
+
+SICP: 2.2.1
+
+
+IN2040: 3.4 - Lambda uttrykk og anonyme prosedyrer
+3.4 - Lambda uttrykk og anonyme prosedyrer
+Her introduseres anonyme prosedyrer. Disse er ofte nyttige for høyreordens prosedyrer.
+
+SICP: 1.3.2
+
+
+IN2040: 3.5 - Høyreordens prosedyrer - prosedyrer som argument
+3.5 - Høyreordens prosedyrer - prosedyrer som argument
+Del 1 av høyreordens prosedyrer. Her forklares prosedyrer som tar inn andre prosedyrer som argument.
+Prosedyrer som introduseres her er: reduce (accumulate) og filter.
+
+SICP:1.3.1
+
+
+IN2040: 3.6 - Halerekursjon og lister
+3.6 - Halerekursjon og lister
+Her forklares hvorfor halerekursjon ikke alltid er optimalt.
+
+
+IN2040: 3.7 - Høyreordens prosedyrer - prosedyrer som returverdi
+3.7 - Høyreordens prosedyrer - prosedyrer som returverdi
+Del 2 av høyreordens prosedyrer. Her forklares hvordan prosedyrer kan returnere andre prosedyrer.
+
+SICP: 1.3.4
+
+
+IN2040: 3.8 - Sammendrag
+3.8 - Sammendrag

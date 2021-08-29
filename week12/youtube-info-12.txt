@@ -1,0 +1,24 @@
+IN2040: 12.1 - Intro og repetisjon
+12.1 - Intro og repetisjon
+00:00: intro
+04:55: repetisjon: den metasirkulære evaluatoren
+09:30: repetisjon: eksempler
+
+IN2040: 12.2 - Representasjon av uttrykk
+12.2 - Representasjon av uttrykk
+SICP: 4.1.2
+
+IN2040: 12.3 - Lazy Scheme
+12.3 - Lazy Scheme
+SICP 4.2.1, 4.2.2
+00:00 : applicative/eager vs normal order/lazy
+03:00 : lazy evaluation
+04:00 : thunks (card til memoisering/delay)
+06:00 : lazy mc-eval og mc-apply
+
+IN2040: 12.4 - Strømmer som late lister
+12.4 - Strømmer som late lister
+SICP: 4.2.3
+
+IN2040: 12.5 - Lazy evaluation og destruktive operasjoner
+12.5 - Lazy evaluation og destruktive operasjoner

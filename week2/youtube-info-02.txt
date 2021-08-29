@@ -1,0 +1,61 @@
+IN2040: 2.1 - Intro og repetisjon
+2.1 - Intro og repetisjon
+Repetisjon av forelesning 1.
+
+
+
+IN2040: 2.2 - Substitusjonsmodellen og evalueringsstrategier
+2.2 - Substitusjonsmodellen og evalueringsstrategier
+Her introduseres substitusjonsmodellen og to måter å evaluere kode på; applicative evaluation og normal-order evaluation.
+
+SICP: 1.1.5
+
+
+
+IN2040: 2.3 - Sammensatte prosedyrer og blokkstruktur
+2.3 - Sammensatte prosedyrer og blokkstruktur
+Nøkkelord her er: abstraksjon, frie- og bundne variabler, rekkevidde, blokkstruktur  og overskygging.
+
+SICP: 1.1.4, 1.1.8
+
+
+
+IN2040: 2.4 - Mangler i funksjonell programmering
+2.4 - Mangler i funksjonell programmering
+Før du ser på denne: Prøv å tenke over om det er noe du føler mangler. Noe som er viktig, men som ikke enda er introdusert?
+
+
+
+IN2040: 2.5 - Rekursjon
+2.5 - Rekursjon
+Rekursjon med fakultetsfunksjonen som eksempel.
+
+SICP: 1.2.1
+
+
+
+IN2040: 2.6 - Funksjon, prosedyre og prosess
+2.6 - Funksjon, prosedyre og prosess
+Her snakkes om det viktige skille mellom funksjoner, prosedyrer og prosesser. Viktige nøkkelord er: rekursiv prosess, iterativ prosess, haleposisjon og halerekursiv prosedyre.
+
+SICP: 1.2.1
+
+
+
+IN2040: 2.7 - Trerekursiv prosess - Fibonacci
+2.7 - Trerekursiv prosess - Fibonacci
+
+SICP: 1.2.2
+
+
+
+IN2040: 2.8 - Eksponentialfunksjon
+2.8 - Eksponentialfunksjon
+Et eksempel på rekursjon.
+
+SICP: 1.2.4
+
+
+
+IN2040: 2.9 - Konvensjon og god stil
+2.9 - Konvensjon og god stil

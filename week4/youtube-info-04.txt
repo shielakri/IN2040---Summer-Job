@@ -1,0 +1,42 @@
+IN2040: 4.1 - Intro og repetisjon
+4.1 - Intro og repetisjon
+Repetisjon av forelesning 3.
+
+
+
+#IN2040: 4.2 - Rekursjon med anonyme prosedyrer
+#4.2 - Rekursjon med anonyme prosedyrer
+#Her forklares hvordan rekursjon kan utføres kun ved bruk av anonyme prosedyrer. Dette er ikke pensum, men bra for forståelsen.
+
+
+
+IN2040: 4.2 - Lokale variabler, let  og lambda
+4.2 - Lokale variabler, let  og lambda
+Foilen "vi øver oss på å forståd bindinger" (11:30), inneholder en del spørsmål. Gjerne pause før svaret for å prøve å komme fram til svaret selv. Her forklares hvordan opprette lokale variabler med let, og hvordan let i bunn og grunn er lambda uttrykk.
+Nøkkelord her er: scope/rekkevidde, bindinger.
+
+SICP: 1.3.2
+
+
+
+IN2040: 4.3 - Dataabstraksjon
+4.3 - Dataabstraksjon
+Nøkkelord her er: datatyper, konstruktør og selektor, abstraksjonsbarriere, message passing, innkapsling
+
+SICP: 2.1.0*, 2.1.2, 2.1.3
+* Introduksjon til 2.1
+
+
+
+IN2040: 4.4 - Hierarkiske datastrukturer – lister som trær
+4.4 - Hierarkiske datastrukturer – lister som trær
+Nøkkelord her er: closure property, trær, løvnoder, trerekursjon
+Ny prosedyrer her er: append og pair?
+
+SICP: 2.2.0*, 2.2.2
+* Introduksjon til 2.2
+
+
+
+IN2040: 4.5 - Veien videre
+4.5 - Veien videre

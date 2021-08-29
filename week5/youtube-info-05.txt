@@ -1,0 +1,42 @@
+IN2040: 5.1 - Intro og repetisjon
+5.1 - Intro og repetisjon
+
+
+IN2040: 5.2 - Mengder - Introduksjon
+5.2 - Mengder - Introduksjon
+SICP: 2.3.3
+
+
+IN2040: 5.3 - Mengder - Uordnet og ordnet liste
+5.3 - Mengder - Uordnet og ordnet liste
+SICP: 2.3.3
+
+
+IN2040: 5.4 - Mengder - Binærtrær
+5.4 - Mengder - Binærtrær
+SICP: 2.3.3
+
+
+IN2040: 5.5 - Mengder - Abstraksjonsbarrieren
+5.5 - Mengder - Abstraksjonsbarrieren
+SICP: 2.3.3
+
+
+IN2040: 5.6 - Huffman - Introduksjon
+5.6 - Huffman - Introduksjon
+SICP: 2.3.4
+
+
+IN2040: 5.7 - Huffman - David Huffman, kodebok og dekoding
+5.7 - Huffman - David Huffman, kodebok og dekoding
+SICP: 2.3.4
+
+
+IN2040: 5.8 - Huffman - Generere Huffman-trær
+5.8 - Huffman - Generere Huffman-trær
+SICP: 2.3.4
+
+
+IN2040: 5.9 - Huffman - Abstraksjonsbarrieren
+5.9 - Huffman - Abstraksjonsbarrieren
+SICP: 2.3.4

@@ -1,0 +1,27 @@
+IN2040: 8.1 - Intro og repetisjon
+8.1 - Intro og repetisjon
+
+IN2040: 8.2 - Aritet og variadiske prosedyrer
+8.2 - Aritet og variadiske prosedyrer
+
+IN2040: 8.3 - Repetisjon - Køer
+8.3 - Repetisjon - Køer
+
+IN2040: 8.4 - Memoisering 1
+8.4 - Memoisering 1
+
+IN2040: 8.5 - Assosiative tabeller
+8.5 - Assosiative tabeller
+SICP: 3.3.3
+
+IN2040: 8.6 - Refleksjon rundt tabeller
+8.6 - Refleksjon rundt tabeller
+
+IN2040: 8.7 - Bindinger, navn og prosedyrer
+8.7 - Bindinger, navn og prosedyrer
+
+IN2040: 8.8 - Rekursjon med anonyme prosedyrer
+8.8 - Rekursjon med anonyme prosedyrer
+
+IN2040: 8.9 - Memoisering 2
+8.9 - Memoisering 2

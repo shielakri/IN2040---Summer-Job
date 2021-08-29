@@ -1,0 +1,40 @@
+IN2040: 6.1 - Intro og repetisjon
+6.1 - Intro og repetisjon
+
+
+IN2040: 6.2 - Verditilordning, tilstand og prosedyrebasert objektorientering
+6.2 - Verditilordning, tilstand og prosedyrebasert objektorientering
+Vi beveger oss fra et statisk til et dynamisk univers.
+Nøkkelord her er: destruksjon, tilstandsvariabler, bieffekter, lol
+Prosedyrer som introduseres her er: set!, begin
+
+SICP: 3.1.0, 3.1.1, 3.1.2
+
+
+IN2040: 6.3 - Fra substitusjonsmodellen til omgivelsesmodellen
+6.3 - Fra substitusjonsmodellen til omgivelsesmodellen
+Her forklares hvorfor substitusjonsmodellen ikke strekker til når vi begynner med destruktive operasjoner. Vi introduserer derfor omgivelsesmodellen.
+Nøkkelord her er: Omgivelser, rammer, bindinger, overskygging
+
+SICP: 3.1.3, 3.2.0, 3.2.1, 3.2.2
+
+
+IN2040: 6.4 - Innkapsling
+6.4 - Innkapsling
+Her ser vi hvordan omgivelsesmodellen kan brukes til å forklare innkapsling (prosedyrer og variabler definert internt i andre prosedyrer).
+
+SICP: 3.2.3, 3.2.4
+
+
+IN2040: 6.5 - Message passing
+6.5 - Message passing
+Her ser vi hvordan message passing kan brukes til å modellere mer avanserte objekter.
+
+SICP: 3.1.1
+
+
+IN2040: 6.6 - Likhet
+6.6 - Likhet
+Identitet (eq?) vs. Ekvivalens (equal?).
+
+SICP: 3.1.3

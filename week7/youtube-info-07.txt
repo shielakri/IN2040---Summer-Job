@@ -1,0 +1,28 @@
+IN2040: 7.1 - Intro og repetisjon
+7.1 - Intro og repetisjon
+
+IN2040: 7.2 - Kort om parallellitet
+7.2 - Kort om parallellitet
+SICP: 3.4.0
+
+IN2040: 7.3 - Likhet
+7.3 - Likhet
+
+IN2040: 7.4 - Destruktive listeoperasjoner
+7.4 - Destruktive listeoperasjoner
+SICP: 3.3.1
+
+IN2040: 7.5 - Funksjonell listekonkatenasjon
+7.5 - Funksjonell listekonkatenasjon
+SICP: 3.3.1
+
+IN2040: 7.6 - Destruktiv listekonkatenasjon
+7.6 - Destruktiv listekonkatenasjon
+SICP: 3.3.1
+
+IN2040: 7.7 - Egendefinerte datatyper - Køer
+7.7 - Egendefinerte datatyper - Køer
+SICP: 3.3.2
+
+IN2040: 7.8 - Sammendrag
+7.8 - Sammendrag
