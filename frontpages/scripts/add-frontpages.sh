@@ -31,10 +31,10 @@
 #     ... (directories for the lecture each week)
 #     |____week$NUM
 #     |        |____week$NUM
-#     |                 |____$LECTURE-01.mp4_
-#     |                 |____$LECTURE-02.mp4_
+#     |                 |____$LECTURE-01.mp4
+#     |                 |____$LECTURE-02.mp4
 #     |                 ... (the videos to place front pages on)
-#     |                 |____$LECTURE-0X.mp4_
+#     |                 |____$LECTURE-0X.mp4
 #     ...
 
 if [ "$#" == "0" ]; then
